@@ -11,6 +11,3 @@ Hello! 👋 I'm Ariel Sibaja 🤖<br><br>I'm a self-taught web developer with a 
 ![](https://github-readme-stats.vercel.app/api?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArielSibaja91&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArielSibaja91&limit=5&theme=merko&combine_all_yearly_contributions=true)
