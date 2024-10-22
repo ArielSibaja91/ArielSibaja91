@@ -11,10 +11,12 @@ https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/
 # 💻 Tech Stack:
 
 ### MERN Stack:
-<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Icon" width="50"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Icon" width="50"/>
+</div>
 
 My technology stack for creating scalable and maintainable web applications.
 <ul>
@@ -33,20 +35,26 @@ My technology stack for creating scalable and maintainable web applications.
 Note: I standardize the use of Typescript for the development of my Backend and Frontend projects, to ensure I maintain the integrity and quality of the code. 🌟
 
 ### 🎁  Additional:
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Icon" width="50"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Icon" width="50"/>
+</div>
 
 ### 🛠️ Basic Technologies:
 
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Icon" width="50"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Icon" width="50"/>
+</div>
 
 ### 🧪 Testing:
-<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Icon" width="50"/>
-<img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Icon" width="50"/>
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Icon" width="50"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Icon" width="50"/>
+  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Icon" width="50"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Icon" width="50"/>
+</div>
   
 <br/>
 
