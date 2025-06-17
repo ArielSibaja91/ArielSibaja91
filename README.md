@@ -1,5 +1,5 @@
 # 🧑🏼‍💻 About Me:
-Hello! 👋 I'm Ariel Sibaja from Costa Rica. 🇨🇷 <br><br>I'm a self-taught web developer with a great enthusiasm for learning and continuous improvement. I specialize in JavaScript and TypeScript, both Frontend and Backend.<br>I enjoy facing new challenges and honing my skills in modern technologies. 🤖<br><br>I'm constantly looking for opportunities to grow professionally, collaborate on interesting projects and provide creative solutions to complex problems. 🚀
+Hello! 👋 I'm Ariel Sibaja from Costa Rica. 🇨🇷 <br><br>I'm a web developer with great enthusiasm for learning and continuous improvement. I specialize in JavaScript and TypeScript, both Frontend and Backend.<br>I enjoy facing new challenges and honing my skills in modern technologies. 🤖<br><br>I'm constantly looking for opportunities to grow professionally, collaborate on interesting projects and provide creative solutions to complex problems. 🚀
 
 
 ## 📫 Contact Me:
