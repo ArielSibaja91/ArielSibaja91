@@ -10,7 +10,7 @@ https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/
 
 # 💻 Tech Stack:
 
-My stack is based on the use of Javascript and Typescript for the development of web apps, I specialize in React and NodeJS, with their respective ecosystems of libraries and tools. In addition to being familiar with the Vue.js ecosystem. 
+My stack is based on the use of Javascript and Typescript for the development of web apps, I specialize in React and NodeJS, with their respective ecosystems of libraries and tools. In addition to being familiar with the Vue.js ecosystem. I'm currently learning Golang for backend development to create apps with excellent performance and efficiency.
 
 ### ⚙️ Fundamentals:
 
@@ -38,7 +38,9 @@ My stack is based on the use of Javascript and Typescript for the development of
 ### 🌐 Version Control:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-  
+
+### 💡 Currently Learning:  
+[![My Skills](https://skillicons.dev/icons?i=go,graphql,aws)](https://skillicons.dev)
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
