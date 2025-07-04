@@ -1,16 +1,37 @@
 # 🧑🏼‍💻 About Me:
-Hello! 👋 I'm Ariel Sibaja from Costa Rica. 🇨🇷 <br><br>I'm a web developer with great enthusiasm for learning and continuous improvement. I specialize in JavaScript and TypeScript, both Frontend and Backend.<br>I enjoy facing new challenges and honing my skills in modern technologies. 🤖<br><br>I'm constantly looking for opportunities to grow professionally, collaborate on interesting projects and provide creative solutions to complex problems. 🚀
+Hello! 👋 I'm Ariel Sibaja, a web developer based in Costa Rica 🇨🇷.
+
+I specialize in `JavaScript` and `TypeScript`, with expertise across both `frontend` and `backend` development. I'm passionate about continuous learning and consistently enhancing my skills in modern web technologies.
+
+I'm actively seeking opportunities to contribute to innovative projects, collaborate with talented teams, and deliver creative solutions to complex challenges.
 
 
 ## 📫 Contact Me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+      alt="LinkedIn Icon"
+    />
+    <a href="https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/" style="text-decoration: none;">
+        https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/
+    </a>
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light"
+      alt="LinkedIn Icon"
+    />
+    <a href="mailto:arielsibaja91@gmail.com" style="text-decoration: none;">
+        arielsibaja91@gmail.com
+    </a>
+</div>
 
-
+<br>
 
 # 💻 Tech Stack:
 
-My stack is based on the use of Javascript and Typescript for the development of web apps, I specialize in React and NodeJS, with their respective ecosystems of libraries and tools. In addition to being familiar with the Vue.js ecosystem. I'm currently learning .NET for backend development, to create performant and efficient apps.
+My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. I'm also familiar with `Vue.js` and currently expanding my backend capabilities by learning `C#` and `.NET` ecosystem to build high-performance and efficient applications.
 
 ### ⚙️ Fundamentals:
 
@@ -18,30 +39,29 @@ My stack is based on the use of Javascript and Typescript for the development of
 
 ### 🛠️ Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,express)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,express,vue)
 
 ### 🗃️  Database:
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongo)
 
 ### 🎨  Styles:
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,mui,bootstrap,sass)](https://skillicons.dev)
 
 ### 📚 Libraries:
-[![My Skills](https://skillicons.dev/icons?i=redux,pinia,)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,pinia,reactquery)
 
 ### 🧪 Testing:
 
-[![My Skills](https://skillicons.dev/icons?i=vitest,jest,cypress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vitest,cypress)](https://skillicons.dev)
 
 ### 🌐 Version Control:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### 💡 Currently Learning:  
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,azure,reactnative)
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-```
