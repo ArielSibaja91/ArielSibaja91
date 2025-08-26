@@ -31,7 +31,7 @@ I'm actively seeking opportunities to contribute to innovative projects, collabo
 
 # 💻 Tech Stack:
 
-My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. I'm also familiar with `Vue.js` and currently expanding my backend capabilities by learning `C#` and `.NET` ecosystem to build high-performance and efficient applications.
+My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. I'm also familiar with `Vue.js` and currently expanding my capabilities by learning `NestJS` and `Next.js` ecosystem to build high-performance and efficient applications.
 
 ### ⚙️ Fundamentals:
 
@@ -43,11 +43,11 @@ My core web development stack leverages `JavaScript` and `TypeScript`. I special
 
 ### 🗃️  Database:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongo)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo)
 
 ### 🎨  Styles:
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,bootstrap,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,sass)](https://skillicons.dev)
 
 ### 📚 Libraries:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,pinia,reactquery)
@@ -61,7 +61,7 @@ My core web development stack leverages `JavaScript` and `TypeScript`. I special
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### 💡 Currently Learning:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,azure,reactnative)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nest,next)
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
