@@ -1,9 +1,8 @@
 # 🧑🏼‍💻 About Me:
 Hello! 👋 I'm Ariel Sibaja, a web developer based in Costa Rica 🇨🇷.
 
-I specialize in `JavaScript` and `TypeScript`, with expertise across both `frontend` and `backend` development. I'm passionate about continuous learning and consistently enhancing my skills in modern web technologies.
-
-I'm actively seeking opportunities to contribute to innovative projects, collaborate with talented teams, and deliver creative solutions to complex challenges.
+I specialize in building responsive and scalable applications with **React** and **TypeScript**, focusing on delivering seamless user experiences.  
+While my main expertise is in **frontend development**, I also have complementary knowledge in **backend technologies** like Node.js and Express, which helps me create well-integrated applications.
 
 
 ## 📫 Contact Me:
@@ -31,7 +30,15 @@ I'm actively seeking opportunities to contribute to innovative projects, collabo
 
 # 💻 Tech Stack:
 
-My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. I'm also familiar with `Vue.js` and currently expanding my capabilities by learning `NestJS` and `Next.js` ecosystem to build high-performance and efficient applications.
+My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. Currently expanding my capabilities by learning `Next.js` ecosystem to build high-performance and efficient applications.
+
+## 🥞 Core Stacks
+
+- **PERN** →  ![My Skills](https://skillicons.dev/icons?i=postgres,express,react,nodejs)
+- **MERN** → ![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs)
+
+These stacks allow me to develop complete, scalable web applications.  
+While my main focus is **frontend development with React + TypeScript**, my backend knowledge ensures seamless full-stack integration.
 
 ### ⚙️ Fundamentals:
 
@@ -39,7 +46,7 @@ My core web development stack leverages `JavaScript` and `TypeScript`. I special
 
 ### 🛠️ Frameworks:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,express,vue)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,express)
 
 ### 🗃️  Database:
 
@@ -50,7 +57,7 @@ My core web development stack leverages `JavaScript` and `TypeScript`. I special
 [![My Skills](https://skillicons.dev/icons?i=tailwind,mui,sass)](https://skillicons.dev)
 
 ### 📚 Libraries:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,pinia,reactquery)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery)
 
 ### 🧪 Testing:
 
@@ -61,7 +68,12 @@ My core web development stack leverages `JavaScript` and `TypeScript`. I special
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### 💡 Currently Learning:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nest,next)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next,gsap)
 <br/>
+
+## 🚀 Featured Projects
+- [EIMSPRO Software](https://eimsprosoftware.com) → Company static site built with Astro.  
+- [GL Fitness Center](https://glfitnesscenter.com) → Ongoing fitness platform for a local gym built with React, TypeScript, and RTK, improving system performance and user navigation compared to the previous system.  
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
