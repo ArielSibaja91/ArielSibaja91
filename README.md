@@ -30,38 +30,41 @@ While my main expertise is in **frontend development**, I also have complementar
 
 # 💻 Tech Stack:
 
-My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. Currently expanding my capabilities by learning `Next.js` ecosystem to build high-performance and efficient applications.
+My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. Likewise, I use the `JAMstack` to create sites with static or very high-performance content and with optimized SEO. As part of this stack I use the SSG `Astro` in combination with a headless CMS, in my case, `Strapi`. Currently expanding my capabilities by learning `Next.js` ecosystem to build high-performance and efficient applications.
 
 ## 🥞 Core Stacks
 
-- **PERN** →  ![My Skills](https://skillicons.dev/icons?i=postgres,express,react,nodejs)
-- **MERN** → ![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs)
+- **PERN** →  ![My Skills](https://skillicons.dev/icons?i=postgres,express,react,nodejs&theme=light)
+- **MERN** → ![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs&theme=light)
 
 These stacks allow me to develop complete, scalable web applications.  
 While my main focus is **frontend development with React + TypeScript**, my backend knowledge ensures seamless full-stack integration.
 
-### ⚙️ Fundamentals:
+- **JAM** → ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=astro,strapi,vercel)
+This stack allows me to create websites rich in content and focused on presentation, advertising and performance. **Astro** leverages functionalities of other JS frameworks such as **React**, hydrating its components in the client, improving the performance of the app. The headless CMS ensures a good experience for the client by having control over the content of the website, while my platform for this type of project (Paas) is Vercel.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)
+### ⚙️ Lenguages:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs&theme=light)](https://skillicons.dev)
 
 ### 🛠️ Frameworks:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,express)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,express,astro&theme=light)
 
 ### 🗃️  Database:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo&theme=light)
 
 ### 🎨  Styles:
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,sass&theme=light)](https://skillicons.dev)
 
 ### 📚 Libraries:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery&theme=light)
 
 ### 🧪 Testing:
 
-[![My Skills](https://skillicons.dev/icons?i=vitest,cypress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vitest,cypress&theme=light)](https://skillicons.dev)
 
 ### 🌐 Version Control:
 
@@ -77,3 +80,4 @@ While my main focus is **frontend development with React + TypeScript**, my back
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
