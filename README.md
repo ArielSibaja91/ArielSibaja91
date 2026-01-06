@@ -78,6 +78,5 @@ This stack allows me to create websites rich in content and focused on presentat
 - [EIMSPRO Software](https://eimsprosoftware.com) → Company static site built with Astro.  
 - [GL Fitness Center](https://glfitnesscenter.com) → Ongoing fitness platform for a local gym built with React, TypeScript, and RTK, improving system performance and user navigation compared to the previous system.  
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
