@@ -1,11 +1,60 @@
-# 🧑🏼‍💻 About Me:
-Hello! 👋 I'm Ariel Sibaja, a web developer based in Costa Rica 🇨🇷.
+# # 🧑🏼‍💻 Ariel Sibaja | Frontend Engineer
 
-I specialize in building responsive and scalable applications with **React** and **TypeScript**, focusing on delivering seamless user experiences.  
-While my main expertise is in **frontend development**, I also have complementary knowledge in **backend technologies** like Node.js and Express, which helps me create well-integrated applications.
+Hello! 👋 I'm a web developer based in **Costa Rica 🇨🇷** specialized in building **high-performance web applications** and **SaaS solutions**.
 
+Currently, my focus is on the **Vue/Nuxt ecosystem**, leveraging **Supabase** to create scalable, real-time management systems that solve operational headaches for service-based businesses.
 
-## 📫 Contact Me:
+----------
+
+## 🚀 Current Project: Service Management SaaS
+
+I am currently architecting a specialized platform for service businesses (Barber Shops, Salons, etc.) to streamline their daily operations.
+
+-   **Core Tech:** Nuxt 4, Vue 3 (Composition API), Supabase.
+    
+-   **Engineered for:** Real-time appointment scheduling, automated billing, and business analytics.
+    
+
+----------
+
+## 💻 Tech Stack:
+
+### ⚡ Frontend Excellence: 
+![My Skills](https://skillicons.dev/icons?i=nuxt,vue,pinia,tailwind,ts&theme=light)
+
+### 🗄️ Backend & Infrastructure:
+![My Skills](https://skillicons.dev/icons?i=supabase,postgres,vite,vercel&theme=dark)
+
+----------
+
+## 🛠️ Featured Projects
+
+### 💇‍♂️ [WIP] Professional Service Management Platform: Vexo
+
+A comprehensive tool designed for local service providers to manage their business from the cloud.
+
+-   **Stack:** Nuxt, Supabase Auth & DB.
+    
+-   **Key Feature:** Real-time data synchronization and multi-role dashboards.
+    
+
+### 🏋️‍♂️ GL Fitness Center
+
+Ongoing fitness platform for a local gym. Built with React, TypeScript and PHP, focused on improving system performance and user navigation.
+[glfitnesscenter.com](https://glfitnesscenter.com)
+
+-   **Transitioning to:** Currently applying Vue/Nuxt optimization principles to my legacy React projects.
+    
+
+----------
+
+## 📈 My Engineering Philosophy:
+
+I've evolved from building static sites with **Astro** and some more complex apps in **React** to engineering complex, data-driven applications. My goal is to bridge the gap between clean, maintainable code and real business value.
+
+----------
+
+## 📫 Let's Connect:
 <div style="display: flex; align-items: center; gap: 8px;">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
@@ -25,58 +74,6 @@ While my main expertise is in **frontend development**, I also have complementar
         arielsibaja91@gmail.com
     </a>
 </div>
-
-<br>
-
-# 💻 Tech Stack:
-
-My core web development stack leverages `JavaScript` and `TypeScript`. I specialize in `React` for frontend development and `Node.js` for the backend, alongside their extensive ecosystems of libraries and tools. Likewise, I use the `JAMstack` to create sites with static or very high-performance content and with optimized SEO. As part of this stack I use the SSG `Astro` in combination with a headless CMS, in my case, `Strapi`. Currently expanding my capabilities by learning `Next.js` ecosystem to build high-performance and efficient applications.
-
-## 🥞 Core Stacks
-
-- **PERN** →  ![My Skills](https://skillicons.dev/icons?i=postgres,express,react,nodejs&theme=light)
-- **MERN** → ![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs&theme=light)
-
-These stacks allow me to develop complete, scalable web applications.  
-While my main focus is **frontend development with React + TypeScript**, my backend knowledge ensures seamless full-stack integration.
-
-- **JAM** → ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=astro,strapi,vercel)
-This stack allows me to create websites rich in content and focused on presentation, advertising and performance. **Astro** leverages functionalities of other JS frameworks such as **React**, hydrating its components in the client, improving the performance of the app. The headless CMS ensures a good experience for the client by having control over the content of the website, while my platform for this type of project (Paas) is Vercel.
-
-### ⚙️ Lenguages:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs&theme=light)](https://skillicons.dev)
-
-### 🛠️ Frameworks:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,express,astro&theme=light)
-
-### 🗃️  Database:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongo&theme=light)
-
-### 🎨  Styles:
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,sass&theme=light)](https://skillicons.dev)
-
-### 📚 Libraries:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery&theme=light)
-
-### 🧪 Testing:
-
-[![My Skills](https://skillicons.dev/icons?i=vitest,cypress&theme=light)](https://skillicons.dev)
-
-### 🌐 Version Control:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-### 💡 Currently Learning:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next,gsap)
-<br/>
-
-## 🚀 Featured Projects
-- [EIMSPRO Software](https://eimsprosoftware.com) → Company static site built with Astro.  
-- [GL Fitness Center](https://glfitnesscenter.com) → Ongoing fitness platform for a local gym built with React, TypeScript, and RTK, improving system performance and user navigation compared to the previous system.  
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArielSibaja91&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
