@@ -20,10 +20,10 @@ I am currently architecting a specialized platform for service businesses (Barbe
 ## 💻 Tech Stack:
 
 ### ⚡ Frontend Excellence: 
-![My Skills](https://skillicons.dev/icons?i=nuxt,vue,pinia,tailwind,ts&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nuxt,vue,pinia,tailwind,ts)
 
 ### 🗄️ Backend & Infrastructure:
-![My Skills](https://skillicons.dev/icons?i=supabase,postgres,vite,vercel&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=supabase,postgres,vite,vercel)
 
 ----------
 
