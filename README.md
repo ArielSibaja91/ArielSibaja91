@@ -1,4 +1,4 @@
-# # 🧑🏼‍💻 Ariel Sibaja | Frontend Engineer
+# 🧑🏼‍💻 Ariel Sibaja | Frontend Engineer
 
 Hello! 👋 I'm a web developer based in **Costa Rica 🇨🇷** specialized in building **high-performance web applications** and **SaaS solutions**.
 
@@ -74,6 +74,7 @@ I've evolved from building static sites with **Astro** and some more complex app
         arielsibaja91@gmail.com
     </a>
 </div>
+<br />
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArielSibaja91&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
