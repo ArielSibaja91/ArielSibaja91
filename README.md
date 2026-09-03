@@ -1,80 +1,76 @@
-# 🧑🏼‍💻 Ariel Sibaja | Frontend Engineer
+<h1 align="center">Ariel Sibaja</h1>
+<h3 align="center">Product Engineer | Business Logic | Founder @ A13 Studio</h3>
 
-Hello! 👋 I'm a web developer based in **Costa Rica 🇨🇷** specialized in building **high-performance web applications** and **SaaS solutions**.
+<p align="center">
+  I bridge the gap between high-end digital aesthetics and robust business architecture. Based in <b>Costa Rica 🇨🇷</b>, I specialize in building custom operational systems and web applications that solve administrative chaos for SMEs.
+</p>
 
-Currently, my focus is on the **Vue/Nuxt ecosystem**, leveraging **Supabase** to create scalable, real-time management systems that solve operational headaches for service-based businesses.
+---
 
-----------
+## 🚀 Current focus: Engineering for Business Value
 
-## 🚀 Current Project: Service Management SaaS
+My transition from  frontend development to comprehensive systems architecture has one clear goal: **building technology that saves time and money.** 
 
-I am currently architecting a specialized platform for service businesses (Barber Shops, Salons, etc.) to streamline their daily operations.
+*   **What I'm doing now:** Developing custom logistics, scheduling, and management systems for local businesses (gyms, transport companies), integrating **SQL** and **Business Intelligence** logic so owners can see their margins and operational bottlenecks in real-time.
+*   **What's next (A13 Studio):** Launching **A13 Studio** (`a13.cr`) — an independent tech-creative agency. The mission is to provide local SMEs (PYMES) with premium, modern web architecture (using clean, fluid aesthetics) backed by powerful operational software, all at accessible price points.
 
--   **Core Tech:** Nuxt 4, Vue 3 (Composition API), Supabase.
-    
--   **Engineered for:** Real-time appointment scheduling, automated billing, and business analytics.
-    
+---
 
-----------
+## 💻 Technical Arsenal
 
-## 💻 Tech Stack:
+My primary ecosystem is centered around **Vue/Nuxt JS** for crafting highly reactive, modern interfaces, and **Laravel** for structuring solid, scalable business logic on the backend.
 
-### ⚡ Frontend Excellence: 
-![My Skills](https://skillicons.dev/icons?i=nuxt,vue,pinia,tailwind,ts)
+### ⚡ Frontend & UI Architecture:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind" />
+</a>
 
-### 🗄️ Backend & Infrastructure:
-![My Skills](https://skillicons.dev/icons?i=supabase,postgres,vite,vercel)
-
-----------
-
-## 🛠️ Featured Projects
-
-### 💇‍♂️ [WIP] Professional Service Management Platform: Vexo
-
-A comprehensive tool designed for local service providers to manage their business from the cloud.
-
--   **Stack:** Nuxt, Supabase Auth & DB.
-    
--   **Key Feature:** Real-time data synchronization and multi-role dashboards.
-    
-
-### 🏋️‍♂️ GL Fitness Center
-
-Ongoing fitness platform for a local gym. Built with React, TypeScript and PHP, focused on improving system performance and user navigation.
-[glfitnesscenter.com](https://glfitnesscenter.com)
-
--   **Transitioning to:** Currently applying Vue/Nuxt optimization principles to my legacy React projects.
-    
-
-----------
-
-## 📈 My Engineering Philosophy:
-
-I've evolved from building static sites with **Astro** and some more complex apps in **React** to engineering complex, data-driven applications. My goal is to bridge the gap between clean, maintainable code and real business value.
-
-----------
-
-## 📫 Let's Connect:
-<div style="display: flex; align-items: center; gap: 8px;">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
-      alt="LinkedIn Icon"
-    />
-    <a href="https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/" style="text-decoration: none;">
-        https://linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/
-    </a>
-</div>
+### ⚙️ Backend, Systems & Data:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,php,postgres,supabase" />
+</a>
 <br>
-<div style="display: flex; align-items: center; gap: 8px;">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light"
-      alt="LinkedIn Icon"
-    />
-    <a href="mailto:arielsibaja91@gmail.com" style="text-decoration: none;">
-        arielsibaja91@gmail.com
-    </a>
+
+
+---
+
+## 🛠️ Featured Work
+
+### 🏋️‍♂️ [GL Fitness Center](https://glfitnesscenter.com)
+A comprehensive digital platform engineered for a local gym to streamline client interactions and system navigation.
+*   **The Challenge:** Overhauling legacy processes to improve user experience and system performance.
+*   **The Stack:** Built with React, TypeScript, and PHP. 
+
+### 👨‍🚀 [Apolo](https://apoloapp.on-forge.com)
+An internal operation tool engineered for a local logistics office to streamline daily operations, payrolls, and business metrics.
+*   **The Challenge:** Adaptation of company-specific operations, task automation, corporate data recording and consolidation from various sources, and graphical representation of business metrics for BI.
+*   **The Stack:** Built with Vue, Laravel, and PostgreSQL. 
+
+---
+
+## 📈 Engineering Philosophy
+
+I don’t write code just for the sake of it; I build digital solutions. Whether I am crafting a high-quality landing page or structuring an internal system or tool that saves you time, money, and headaches, my focus is always on the end user. An attractive design must be backed by flawless logic, ensuring the software functions as an automated engine for your business—not merely as a digital brochure.
+
+---
+
+## 📫 Let's Connect
+
+If you would like to discuss potential projects or work, I would be more than happy to chat and negotiate; please contact me via:
+
+<div style="display: flex; flex-direction: column; gap: 10px; margin-top: 15px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="24" height="24" />
+      <a href="https://www.linkedin.com/in/ariel-andrés-sibaja-ugalde-48a74025a/" style="text-decoration: none; color: inherit;">Ariel Sibaja Ugalde</a>
+  </div>
+  <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="24" height="24" />
+      <a href="mailto:arielsibaja91@gmail.com" style="text-decoration: none; color: inherit;">arielsibaja91@gmail.com</a>
+  </div>
 </div>
+
 <br />
 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArielSibaja91&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArielSibaja91&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ariel's GitHub Stats" />
+</p>
